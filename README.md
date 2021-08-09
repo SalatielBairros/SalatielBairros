@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Salatiel Bairros and I'm a software developer since 2012. Most of my public repositories are prototypes and studies. Feel free to create issues, contribute and contact me about any of them.
+My name is Salatiel Bairros and I'm a software developer since 2012. Most of my public repositories are prototypes and studies. Feel free to create issues, contribute or contact me about any of them.
 
 - 🔭 I’m currently working on [kaggle-titanic](https://www.kaggle.com/c/titanic/) challenge
 - 🌱 I’m currently studying AI, ML and Data Science at [PUC Minas](https://www.pucminas.br/posead/Paginas/curso-detalhes.aspx?PageID=542&moda=1&polo=1&curso=2975&situ=1)
