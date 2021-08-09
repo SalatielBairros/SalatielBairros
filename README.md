@@ -4,6 +4,7 @@ I'm a brazilian software developer and most of my public repositories are protot
 
 - 🔭 I’m currently working on _kaggle-titanic_ challenge
 - 🌱 I’m currently learning AI, ML and Data Science
+- :man_technologist: I'm a backend developer at [bornlogic](https://github.com/bornlogic)
 
 The stack of technologies I'm currently work with is:
 
