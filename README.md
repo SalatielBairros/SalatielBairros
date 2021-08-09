@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**SalatielBairros/SalatielBairros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a brazilian software developer and most of my public repositories are prototypes and studies. Feel free to create issues, contribute and contact me about any of them.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on _kaggle-titanic_ challenge
+- 🌱 I’m currently learning AI, ML and Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The stack of technologies I'm currently work with is:
+
+- C# (.NET Core, Microsservices etc)
+- Python (Data Sciente)
+- Angular
+- Ionic
+- Javascript
