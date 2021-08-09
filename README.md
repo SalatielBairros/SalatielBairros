@@ -8,7 +8,7 @@ I'm a brazilian software developer and most of my public repositories are protot
 The stack of technologies I'm currently work with is:
 
 - C# (.NET Core, Microsservices etc)
-- Python (Data Sciente)
+- Python (Data Science)
 - Angular
 - Ionic
 - Javascript
