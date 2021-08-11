@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalatielBairros&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 My name is Salatiel Bairros and I'm a software developer since 2012. Most of my public repositories are prototypes and studies. Feel free to create issues, contribute or contact me about any of them.
 
 - 🔭 I’m currently working on [kaggle-titanic](https://www.kaggle.com/c/titanic/) challenge
@@ -13,3 +15,6 @@ The stack of technologies I'm currently work with is:
 - Angular
 - Ionic
 - Javascript
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalatielBairros&layout=compact&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
