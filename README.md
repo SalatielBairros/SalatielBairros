@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 My name is **Salatiel Bairros** and I'm a software developer since 2012. Most of my public repositories are prototypes and studies. Feel free to create issues, contribute or contact me about any of them.
 
@@ -6,7 +6,7 @@ My name is **Salatiel Bairros** and I'm a software developer since 2012. Most of
 - 🌱 I’m currently studying AI, ML and Data Science at [PUC Minas](https://www.pucminas.br/posead/Paginas/curso-detalhes.aspx?PageID=542&moda=1&polo=1&curso=2975&situ=1)
 - :man_technologist: I'm a backend developer at [bornlogic](https://github.com/bornlogic)
 
-### Skills
+## Skills
 <div style="display:inline-block">
   <img height="32" src="https://raw.githubusercontent.com/SalatielBairros/SalatielBairros/main/csharp.png" alt="C#">
   <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/microsoft-dotnet-1175177.png" alt=".NET">
@@ -28,9 +28,17 @@ My name is **Salatiel Bairros** and I'm a software developer since 2012. Most of
   <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/jquery-9-1175154.png">
 </div>
 
-### Stats
+## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalatielBairros&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/reisdev">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=SalatielBairros&count_private=true&show_icons=true&theme=dracula">
+</a>
+<a href="https://github.com/reisdev">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalatielBairros&layout=compact&&count_private=true&theme=dracula">
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalatielBairros&layout=compact&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## Social
+
+[![Twitter](https://img.shields.io/badge/@SalatielB-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SalatielB)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salatiel-bairros/)
