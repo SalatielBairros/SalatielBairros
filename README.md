@@ -33,7 +33,7 @@ My name is **Salatiel Bairros** and I'm a software developer since 2012. Most of
 <a href="https://github.com/SalatielBairros">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=SalatielBairros&count_private=true&show_icons=true&theme=dracula">
 </a>
-<a href="https://github.com/reisdev">
+<a href="https://github.com/SalatielBairros">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalatielBairros&layout=compact&&count_private=true&theme=dracula">
 </a>
 
