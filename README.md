@@ -30,12 +30,10 @@ My name is **Salatiel Bairros** and I'm a software developer since 2012. Most of
 ## Stats
 
 <a href="https://github.com/SalatielBairros">
-  <img align="center" height="180rem" src="https://
-github-readme-stats-msgg8hx4w-salatielbairros.vercel.app/api?username=SalatielBairros&count_private=true&show_icons=true&theme=dracula">
+  <img align="center" height="180rem" src="https://github-readme-stats-i9xunreee-salatielbairros.vercel.app/api?username=SalatielBairros&count_private=true&show_icons=true&theme=dracula">
 </a>
 <a href="https://github.com/SalatielBairros">
-  <img align="center" height="180rem" src="https://
-github-readme-stats-msgg8hx4w-salatielbairros.vercel.app/api/top-langs/?username=SalatielBairros&layout=compact&&count_private=true&theme=dracula">
+  <img align="center" height="180rem" src="https://github-readme-stats-i9xunreee-salatielbairros.vercel.app/api/top-langs/?username=SalatielBairros&layout=compact&&count_private=true&theme=dracula">
 </a>
 
 
