@@ -46,6 +46,14 @@ My name is **Salatiel Bairros** and I'm a software developer since 2012. Most of
   <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/jquery-9-1175154.png">
 </div>
 
+### Certification
+<a href="https://www.credly.com/badges/bfca82c0-8501-4bf9-acd2-0bc5a9276880/public_url" target="_blank">
+  <img height="64" src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png">
+</a>
+<a href="https://www.credly.com/badges/1897cd96-5a71-4e35-91a3-18929237ecfa/public_url" target="_blank">
+  <img height="64" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
+</a>
+
 ## Stats
 
 <a href="https://github.com/SalatielBairros">
