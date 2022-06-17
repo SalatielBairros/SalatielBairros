@@ -66,14 +66,7 @@ My name is **Salatiel Bairros** and I'm a software developer since 2012. Most of
 </a>
 
 ## Stats
-
-<a href="https://github.com/SalatielBairros">
-  <img align="center" height="180rem" src="https://github-readme-stats-i9xunreee-salatielbairros.vercel.app/api?username=SalatielBairros&count_private=true&show_icons=true&theme=dracula">
-</a>
-<a href="https://github.com/SalatielBairros">
-  <img align="center" height="180rem" src="https://github-readme-stats-i9xunreee-salatielbairros.vercel.app/api/top-langs/?username=SalatielBairros&layout=compact&&count_private=true&theme=dracula">
-</a>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalatielBairros&hide=Jupyter%20Notebook,html&langs_count=5&theme=dracula)
 
 ## Social
 
