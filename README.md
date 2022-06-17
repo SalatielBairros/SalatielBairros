@@ -7,12 +7,20 @@ My name is **Salatiel Bairros** and I'm a software developer since 2012. Most of
 - I'm currently working on World Happines Report score regression repository ([here](https://github.com/SalatielBairros/world-happiness-report))
 
 ## Skills
+### Data science
+<div style="display:inline-block">
+  <img height="64" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="Keras">
+  <img height="64" src="https://vmarkovtsev.github.io/pydata-2018-mallorca/pictures/sklearn_logo.svg" alt="Scikit-learn">    
+  <img height="64" src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas"/>
+  <img height="64" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn">
+</div>
+
 ### Backend
 <div style="display:inline-block">
   <img height="64" src="https://raw.githubusercontent.com/SalatielBairros/SalatielBairros/main/csharp.png" alt="C#">
   <img height="64" src="https://cdn.iconscout.com/icon/free/png-256/microsoft-dotnet-1175177.png" alt=".NET">    
   <img height="64" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/>
-  <img height="64" src="https://raw.githubusercontent.com/SalatielBairros/SalatielBairros/main/python.png">  
+  <img height="64" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python">  
 </div>
 
 ### Databases
@@ -20,7 +28,7 @@ My name is **Salatiel Bairros** and I'm a software developer since 2012. Most of
   <img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/>
   <img height="64" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" alt="MongoDB"/>
   <img height="64" src="https://cdn.iconscout.com/icon/free/png-256/elasticsearch-226094.png" alt="Elasticsearch"/>
-  <img height="64" src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png" alt="SQL Server"/>
+  <img height="64" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt="SQL Server"/>
   <img height="64" src="https://www.tableau.com/sites/default/files/google_bigquery.png" alt="BigQuery"/>
 </div>
 
@@ -52,6 +60,9 @@ My name is **Salatiel Bairros** and I'm a software developer since 2012. Most of
 </a>
 <a href="https://www.credly.com/badges/1897cd96-5a71-4e35-91a3-18929237ecfa/public_url" target="_blank">
   <img height="64" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
+</a>
+<a href="https://www.credly.com/badges/7ecb3636-5545-4e5c-a20c-2644db89c8be/public_url" target="_blank">
+  <img height="64" src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png">
 </a>
 
 ## Stats
