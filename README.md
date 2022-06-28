@@ -64,6 +64,10 @@ My name is **Salatiel Bairros** and I'm a software developer since 2012. Most of
 <a href="https://www.credly.com/badges/7ecb3636-5545-4e5c-a20c-2644db89c8be/public_url" target="_blank">
   <img height="64" src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png">
 </a>
+<a href="https://www.credly.com/badges/892d014f-bf4e-4a5b-93d2-ed7959377c2b/public_url" target="_blank">
+  <img height="64" src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png">
+</a>
+
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalatielBairros&hide=Jupyter%20Notebook,html&langs_count=5&theme=dracula)
