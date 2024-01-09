@@ -3,8 +3,9 @@
 My name is **Salatiel Bairros** and I'm a software developer since 2012. Most of my public repositories are prototypes and studies. Feel free to create issues, contribute or contact me about any of them.
 
 - 🌱 I have a specialization course in AI, ML and Data Science at [PUC Minas](https://www.pucminas.br/posead/Paginas/curso-detalhes.aspx?PageID=542&moda=1&polo=1&curso=2975&situ=1)
-- :man_technologist: I'm a data engineer at [bornlogic](https://github.com/bornlogic), focused on creating NLP ML Models, deployments, ETLs and Python/.NET Microservices.
+- :man_technologist: I'm a Software Development Specialist at TOTVS.
 - The World Happines Report is the final project of my specialization with a API, Regression and classification modelos and a Frontend in Angular. Feel free to look at it. ([models and API](https://github.com/SalatielBairros/world-happiness-report), [frontend](https://github.com/SalatielBairros/frontend-world-happiness-report)).
+- I'm currently working on CaosML, a project to implement ML Algorithms from scratch with documentations for study purposes.
 
 ## Skills
 ### Data science
